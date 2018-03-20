@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "5735587c27828a2052d389b0",
+    "index": 0,
+    "age": 27,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Faye",
+      "last": "Garrett"
+    }
+  },
+  {
+    "_id": "5735587cfe44a5dc00b58f5e",
+    "index": 1,
+    "age": 24,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Gwendolyn",
+      "last": "Sandoval"
+    }
+  },
+  {
+    "_id": "5735587cb6c4a97eebc00d89",
+    "index": 2,
+    "age": 39,
+    "eyeColor": "green",
+    "name": {
+      "first": "Forbes",
+      "last": "Cardenas"
+    }
+  },
+  {
+    "_id": "5735587c497591d87d378ca3",
+    "index": 3,
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Pennington",
+      "last": "Walker"
+    }
+  },
+  {
+    "_id": "5735587cc201b4505dc045a6",
+    "index": 4,
+    "age": 23,
+    "eyeColor": "green",
+    "name": {
+      "first": "Autumn",
+      "last": "Fry"
+    }
+  },
+  {
+    "_id": "5735587c1aa3dc312215d377",
+    "index": 5,
+    "age": 39,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Antonia",
+      "last": "Dorsey"
+    }
+  },
+  {
+    "_id": "5735587c8c2608d0cd070c8b",
+    "index": 6,
+    "age": 37,
+    "eyeColor": "green",
+    "name": {
+      "first": "Higgins",
+      "last": "Wells"
+    }
+  },
+  {
+    "_id": "5735587c0c03786268b2f08c",
+    "index": 7,
+    "age": 28,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Powell",
+      "last": "Figueroa"
+    }
+  },
+  {
+    "_id": "5735587c03277cbac783d5ef",
+    "index": 8,
+    "age": 26,
+    "eyeColor": "brown",
+    "name": {
+      "first": "Hardin",
+      "last": "Lane"
+    }
+  },
+  {
+    "_id": "5735587c2a47bd0f2cbfa693",
+    "index": 9,
+    "age": 40,
+    "eyeColor": "blue",
+    "name": {
+      "first": "Russell",
+      "last": "Coffey"
+    }
+  }
+]
