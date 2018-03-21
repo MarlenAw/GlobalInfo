@@ -1,0 +1,25 @@
+<div id="output"> Nothing for now </div>
+
+<script>
+  var myContainer = "";
+
+  var a = new XMLHttpRequest();
+  a.open("GET", "dummyData.json", true);
+
+  a.onreadystatechange = function(){
+    if(this.readyState == 4){
+      var obj = JSON.parse(this.responseText);
+
+      for(var i = 0; i < obj.length; i++){
+        myContainer += obj[i].name.first + " " + obj[i].name.last + "<br/>";
+      }
+
+      document.getElementById("output").innerHTML = myContainer;
+
+    }
+  }
+
+  a.send();
+
+  console.log(a);
+</script>
