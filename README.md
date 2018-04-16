@@ -1,5 +1,15 @@
 <h1 align="center"> This Repo has been made for the sake of teaching others </h1>
 
+<h3 align="center"> ATOM packages </h3>
+
+ - Platformio-ide-terminal  - ALT + SHIFT + T
+ - Pigments
+ - Minimap
+ - Highlight-selected
+ - File-icons
+ - Emmet
+ - Autocomplete-paths
+ - Atom-beautify
 
 <h3 align="center"> "Cross origin requests are only supported for HTTP." - Error Fix </h3>
 
@@ -27,3 +37,4 @@ var n = 0, m = 0;
 alert(n++); /* Shows 0, then stores n = 1 */
 alert(++m); /* Shows 1, then stores m = 1 */
 ```
+
