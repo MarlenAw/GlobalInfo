@@ -2,9 +2,7 @@
 
 <h3 align="center"> Updating/Upgrading Node.js </h3>
 
- - Download nvm-setup.zip
- <h3 align="center"> https://github.com/coreybutler/nvm-windows/releases </h3>
- 
+ - Download nvm-setup.zip https://github.com/coreybutler/nvm-windows/releases 
  - In CMD: 
    1. <b> nvm list </b>
    2. <b> nvm install (node version number) </b>
