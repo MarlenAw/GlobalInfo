@@ -1,5 +1,14 @@
 <h1 align="center"> This Repo has been made for the sake of teaching others </h1>
 
+<h3 align="center"> Updating/Upgrading Node.js </h3>
+
+ - Download nvm-setup.zip
+ - In CMD: 
+   1. <b> nvm list </b>
+   2. <b> nvm install (node version number) </b>
+   3. Pick what node version you want to use -> <b> nvm use (node version number) </b>
+
+
 <h3 align="center"> ATOM packages </h3>
 
  - Platformio-ide-terminal  - ALT + SHIFT + T
