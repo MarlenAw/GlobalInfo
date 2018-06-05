@@ -4,6 +4,7 @@
 
  - Download nvm-setup.zip
  <h3 align="center"> https://github.com/coreybutler/nvm-windows/releases </h3>
+ 
  - In CMD: 
    1. <b> nvm list </b>
    2. <b> nvm install (node version number) </b>
