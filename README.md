@@ -1,5 +1,20 @@
 <h1 align="center"> This Repo has been made for the sake of teaching others </h1>
 
+<h3 align="center"> GIT </h3>
+
+- Set Git username and email: 
+  
+                      git config --global user.name "MarlenAw"
+                      git config --global user.email "marlenawsh3@gmail.com"
+                     
+
+- Check git username and email:
+
+                      
+                      git config user.name
+                      git config user.email
+                      
+
 <h3 align="center"> Updating/Upgrading Node.js </h3>
 
  - Download nvm-setup.zip https://github.com/coreybutler/nvm-windows/releases 
